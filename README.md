@@ -5,15 +5,15 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ---
 
 ## 👤 Developer Profile
-* **Name:** Akshat Garg
-* **Registration Number:** 23BCE10641
+* **Name:** GARGI
+* **Registration Number:** 23BCE11333
 * **Course:** B.Tech Computer Science and Engineering
 
 ---
 
 ## 🔗 Project Links
-* **Live Web Application:** [https://car-price-prediction-app-00au.onrender.com](https://car-price-prediction-app-00au.onrender.com)
-* **GitHub Repository:** [https://github.com/AkshatGarg2005/car-price-prediction-app](https://github.com/AkshatGarg2005/car-price-prediction-app)
+* **Live Web Application:** [LIVE LINK](https://car-price-predictor-6ifq.onrender.com/)
+* **GitHub Repository:** [GITHUB](https://github.com/Gargi-155/Car-price-predictor)
 
 ---
 
